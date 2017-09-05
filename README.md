@@ -2,23 +2,6 @@
 OOP 설계에 대해서 알아봅시다.
 
 ## SRP 단일 책임의 원칙 - Single Responsibility Principle 
-1.   
-## OCP 개방-폐쇄 원칙 - Open Closed Principle
-1. 확장에 열려 있고 수정에 닫혀 있다.
-2. 클래스간 통신을 위한 인터페이스가 확정되면 수정하지 않는다.
-
-## LSP 리스코프 교체 원칙 - Liskov Substitution Principle
-
-## ISP 인터페이스 격리 원칙 - Interface Segregation Principle
-
-## DIP 의존 관계 역전 원칙 - Dependency Inversion Principle
-
-
-
-## OOP Solid
-OOP 설계에 대해서 알아봅시다.
-
-## SRP 단일 책임의 원칙 - Single Responsibility Principle 
 1. 코드 변경의 영향이 미치는 범위가 최소화 된다
  - Class가 변경되도 다른 Class에 영향을 미치지 않는다
 2. 코드 응집성이 향상된다
